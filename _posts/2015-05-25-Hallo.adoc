@@ -1,6 +1,6 @@
 = Hallo
 
-:hp-tags: github HubPress
+:hp-tags: Github HubPress
 
 Heute einen neuen Blog eingerichtet. Sehr Interessant.
 Anregung zu dieser Anwendung stammt aus der c't 2105/ Heft 11 S.148
