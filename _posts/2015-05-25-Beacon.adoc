@@ -1,0 +1,5 @@
+= Beacon
+
+:hp-tags iBecon
+
+Ich habe ein iBecon installiert und mit meiner Homematc verbunden. das geht schon ganz gut.
